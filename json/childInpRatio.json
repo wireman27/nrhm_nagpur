@@ -1,0 +1,782 @@
+[
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.153
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.186
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.195
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.124
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.202
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.194
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.107
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.138
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.302
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.137
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.106
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.066
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-04-01",
+    "childInpatientRatioList": 0.195
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.298
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.31
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.161
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.039
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.239
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.343
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.156
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.107
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.116
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.085
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.133
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.096
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-05-01",
+    "childInpatientRatioList": 0.151
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.173
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.091
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.16
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.301
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.16
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.084
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.206
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.026
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.137
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.123
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.127
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.324
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-06-01",
+    "childInpatientRatioList": 0.079
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.139
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.132
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.299
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.14
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.174
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.123
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.092
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.162
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.155
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.175
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.147
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.088
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-07-01",
+    "childInpatientRatioList": 0.106
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.193
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.125
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.15
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.115
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.152
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.252
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.123
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.299
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.214
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.14
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.163
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.176
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-08-01",
+    "childInpatientRatioList": 0.125
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.21
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.308
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.161
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.103
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.183
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.206
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.164
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.098
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.194
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.185
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.132
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.121
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-09-01",
+    "childInpatientRatioList": 0.138
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.203
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.115
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.154
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.098
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.128
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.115
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.19
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.162
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.118
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.108
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.148
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.143
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-10-01",
+    "childInpatientRatioList": 0.304
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.304
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.142
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.149
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.093
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.147
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.15
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.096
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.142
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.096
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.101
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.162
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.066
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-11-01",
+    "childInpatientRatioList": 0.188
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.107
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.119
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.118
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.168
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.188
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.14
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.059
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.115
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.067
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.226
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.136
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.208
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-12-01",
+    "childInpatientRatioList": 0.089
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.107
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.043
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.103
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.128
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.13
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.079
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.187
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.232
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.086
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.31
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.156
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.063
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2016-01-01",
+    "childInpatientRatioList": 0.161
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.096
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.113
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.297
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.23
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.306
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.296
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.057
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.107
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.071
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.161
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.161
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.074
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2016-02-01",
+    "childInpatientRatioList": 0.145
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.147
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.105
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.111
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.104
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.183
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.105
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.208
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.117
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.158
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.117
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.12
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.325
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2016-03-01",
+    "childInpatientRatioList": 0.314
+  }
+]

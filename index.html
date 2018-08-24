@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Child Health in Nagpur</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.js'></script>
+    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js'></script>
+    <script src="https://d3plus.org/js/d3plus.v2.0.0-alpha.17.full.min.js"></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='css/styles.css' rel='stylesheet'/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+</head>
+<body>
+    <div id='scroller'>
+        
+
+
+    </div>
+    <div id='container'>
+        <div id='links'><a href="https://github.com/wireman27/socialcops" target="_blank">Docs</a></div>
+        <h1>Nagpur's Children</h1>
+        <div id='introduction' class='page'>
+            <h3>
+                The National Rural Health Mission (NRHM) was launched in 2005 with the endeavor to ensure achievement in <a href='http://nhm.gov.in/nhm/about-nhm/goals.html' target="_blank">goals</a> ranging from reducing maternal and child mortality to stemming the incidence of communicable and non-communicable diseases. Decentralization of healthcare provision to achieve these goals is one of the cornerstones of the <a href="http://nhm.gov.in/images/pdf/NHM/NHM_Framework_for_Implementation__08-01-2014_.pdf" target="_blank">implementation</a> of the scheme. Yet, this provision of autonomy can lead to wide differences in both the quality of the institutions as well as the general health of the population at all levels in the hierarchy. A case in point is Nagpur District.
+            </h3>
+        </div>
+        <br>
+        <div id='interDist' class='page'>
+            <h2>Variation Across Districts in Maharashtra</h2>
+
+            <div class='mapWrapper'>
+                <div class='mapFilter'>
+                    <div class='mapFilterText'>
+                        <input class='map-filter' type="radio" name="district" value="inf_mort" checked>Infant Mortality (Deaths Per 1000 Live Births)<br><br>
+                        <input class='map-filter' type="radio" name="district" value="chg_inf_mort">% Change in Infant Mortality (from 2014-2015 to 2015-2016)<br><br>
+                        <input class='map-filter' type="radio" name="district" value="immun_ashas">% Immunization Sessions where ASHAs Were Present
+                        <br>
+                        <br>
+                        <span style="font-size: 0.75em"><a href="https://nrhm-mis.nic.in/hmisreports/frmstandard_reports.aspx" target="_blank">Data Source</a></span>
+                    </div>
+                </div>
+                <div id='map'></div>
+            </div>
+        </div>
+        <br>
+        <p> Nagpur’s infant mortality rate stands at 10.86 which is above the Maharashtra average of 8.23 and is ranked 24th in the state. However, a more worrying trend is seen in the change in infant mortality since 2014-2015. While the Maharashtra average saw a fall of 2.83%, infant mortality in Nagpur actually increased by 52.34%.</p>
+        <p>A clear variation is also seen in the impact of ASHAs through the % of immunization sessions where ASHAs were present. Given that <i>“ASHAs would reinforce community action for universal immunization, safe delivery, newborn care, prevention of water-borne and other communicable diseases, nutrition and sanitation.”</i>, attention must be channeled to the fact that only 56.1% of immunization sessions in Nagpur had ASHAs compared to the Maharashtra average of 69.5%.</p>
+        <p> So what are driving these variations and what insights can we glean specifically about child health? To answer this, we jump into the Nagpur dataset.</p> 
+        <br>
+        <h2>Variation Across Blocks in Nagpur </h2>
+        <div class = 'compareGraph'>
+            <div class='compareText-left'>
+                There seems to be no visible negative trend in child mortality from Mar-2015 to April-2016 in any of the blocks thus validating the inter-district data in the map above.
+            </div>
+            <div class='chart' id='myChartDiv'>
+                <canvas id="myChart"></canvas>
+            </div>
+        </div>
+        <div class = 'compareGraph'>
+            <div class='compareText-right'>
+                Looking at how the proportion of child inpatients to total inpatients varies over time can be a barometer to gauge what kinds of diseases children are affected by. In this case, there seems to be a gradual rise in this ratio across most blocks between June and September possibly indicating the need to target monsoon-related diseases. Also interesting to note is how Nagpur block's ratio is consistently high. There could be many reasons for this, an example being parents from other blocks bringing their children to Nagpur in the hope of better healthcare.
+            </div>
+            <div class='chart'  id='myChart2Div'>
+                <canvas id="myChart2"></canvas>
+            </div>
+        </div>
+        <div class = 'compareGraph'>
+            <div class='compareText-left'>
+                In Hingna block, for every delivery in a public institution, there are 7 deliveries in a private institution. This is staggeringly high given how Hingna block has the second highest number of ANC registrations (see ANC Registrations Treemap below). It is second after Nagpur block which accounts for 29% of ANC registrations but has only 0.07 deliveries at a private institution for every delivery in a public institution.
+            </div>
+            <div class='chart'  id='myChart3Div'>
+                <canvas id="myChart3"></canvas>
+            </div>
+        </div>
+        <div class = 'compareGraph'>
+            <div class='compareText-right'>
+                It is heartening to note that PHCs and SCs which are lower in the hierarchy seem to be getting the required medicines. However, in the larger institutions, this figure is low. In the Women's Hospital specifically, less than 30 women per 100 anemic women are getting IFA tablets.
+            </div>
+            <div class='chart'  id='myChart4Div'>
+                <canvas id="myChart4"></canvas>
+            </div>
+        </div>
+        <br>
+        <h2 style='margin-bottom:0'>ANC Registration Treemap</h2>
+        <h6 style='margin-top:0'>Larger the block, larger the % of total ANC registrations</h6>
+        <div id="viz"></div>
+        <br>
+        <h2 class='treemap'>Modelling Child Mortality</h2>
+        <p>The above charts depict considerable variation across Nagpur's blocks in parameters that could directly or indirectly affect child mortality. Keeping these indicators in mind, two formal models are presented below.</p>
+        <h4>OLS</h4>
+        <p>Using cross-sectional data across the facilities in Nagpur, a simple linear model is estimated using an OLS regression. The variables are as follows:</p>
+        <table>
+          <tr>
+            <th>Variable Type</th>
+            <th>Variable Description</th>
+            <th>Variable Calculation</th>
+          </tr>
+          <tr>
+            <td>Endogenous</td>
+            <td>Child Mortality</td>
+            <td>Total deaths of children upto 5 years / total live births</td>
+          </tr>
+          <tr>
+            <td>Exogenous</td>
+            <td>Incidence of Vaccination</td>
+            <td>Total children getting the <a href="http://www.immunize.org/catg.d/p4019.pdf" 
+                target="_blank">Hepatitis B0</a> vaccination / Total live births</td>
+          </tr>
+          <tr>
+            <td>Exogenous</td>
+            <td>Extent of Tackling Anemia in Mothers</td>
+            <td>Total women given 100 IFA tablets / Total anemic women </td>
+          </tr>
+          <tr>
+            <td>Exogenous</td>
+            <td>Weight at Birth</td>
+            <td>Total children weighed at less than 2.5kg / Total live births</td>
+          </tr>
+          <tr>
+            <td>Exogenous</td>
+            <td>Extent of Post-Partum Checks</td>
+            <td>Total women who received post-partum check ups / Total women registered for ANC</td>
+          </tr>
+          <tr>
+            <td>Exogenous</td>
+            <td>Extent of Cash Incentives</td>
+            <td>Total women given JSY benefit / Total women registered for ANC</td>
+          </tr>
+        </table>
+        <p>Before running the model, many restrictions were imposed. Any facilities that had less than 20 births in the year were removed from the sample. Moreover, facilities having significant outliers in any of the variables, and facilities with 0 child deaths, were removed.</p>
+        <p>The regression yielded an R<sup>2</sup> of 0.307 with the following statistically significant variables:</p>
+        <ul>
+            <li><b>Extent of Post-Partum Checks</b>: Coefficient of -0.032 significant at 1% . <span style="color:orange">This indicates that doubling the women receiving post-partum checks (with ANC-registrations fixed) reduces child mortality in the facility by 0.064 deaths per live birth</span></li>
+            <li><b>Incidence of Vaccination</b>: Coefficient of -0.021 significant at 5%. <span style="color:orange">This indicates that doubling the number of children getting the Hepatitis B0 vaccination (with total live births fixed) reduces child mortality in the facility by 0.042 deaths per live birth.</span></li>
+        </ul>
+        <p> These results must be interpeted with caution since many of the assumptions of an OLS regression were not met through this data. This could largely be due to the nature of the data where almost 50% of the facilities had a child mortality of 0.</p>
+        <h4>Logit</h4>
+        <p> Given this dichotomy, another <b>logit model</b> was estimated dividing the sample into two categories</p>
+        <ul>
+            <li>Facilities having a child mortality of <i>less</i> than 0.025 deaths per live birth</li>
+            <li>Facilities having a child mortality of <i>greater</i> than 0.025 deaths per live birth</li>
+        </ul>
+        <p>Applying similar restrictions as in the OLS and then running the model yielded the sole statistically significant variable: <b>Extent of Post-Partum Checks</b></p>
+        <p>Given how both models show the statistical significance of post-partum checks, it is not surprising to see its clear negative correlation with child mortality as in the chart below.</p>
+        <br>
+        <div class='chart'  id='myChart5Div'>
+            <canvas id="myChart5"></canvas>
+        </div>
+    </div>
+<script>
+
+var data2 = [
+  {parent: "PHC", id: "alpha", value: 29, grandparent: "KATOL"},
+  {parent: "PHC", id: "beta", value: 10, grandparent: "KATOL"},
+  {parent: "PHC", id: "gamma", value: 2, grandparent: "KATOL"},
+  {parent: "PHC", id: "delta", value: 29, grandparent: "NAGPUR"},
+  {parent: "PHC", id: "eta", value: 25, grandparent: "NAGPUR"}
+];
+
+var xhttpT = new XMLHttpRequest();
+
+
+xhttpT.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        console.log(xhttpT.readyState)
+        treemap = JSON.parse(xhttpT.responseText)
+
+        new d3plus.Treemap()
+          .data(treemap)
+          .groupBy(["grandparent","parent", "id"])
+          .sum("value")
+          .select("#viz")
+          .render();
+    }
+}
+
+xhttpT.open("GET",'json/treemap.json',true);
+xhttpT.send();
+
+
+mapboxgl.accessToken = 'pk.eyJ1Ijoid2lyZW1hbjI3IiwiYSI6ImNqaXR4cXVoejA2bWIzcGxkcmFzNzlidTIifQ.SsSe51bIAFFvHWgLCEhCAw';
+
+var districtsTiles = 'wireman27.09iqiqua';
+var districtsLayer = 'interDistrict-8jqr3e';
+var districtsUrl = 'https://a.tiles.mapbox.com/v4/'+districtsTiles+'/{z}/{x}/{y}.mvt?access_token='+mapboxgl.accessToken;
+var bounds = [
+    [68, 10],
+    [84, 29]  
+];
+
+var fill1 = {
+    'property':'inf_mort',
+    'type':'exponential',
+    'stops': [
+        [0,'white'],
+        [5,'#ffbf00'],
+        [8,'#ff8000'],
+        [15,'#ff0000'],
+        [30,'#cc0000']
+    ]
+}
+
+var fill2 = {
+    'property':'chg_inf_mort',
+    'type':'exponential',
+    'stops': [
+        [-30,'white'],
+        [-10,'#ffbf00'],
+        [0,'#ff8000'],
+        [50,'#ff0000'],
+        [250,'#cc0000']
+    ]
+}
+
+var fill3 = {
+    'property':'immun_ashas',
+    'type':'exponential',
+    'stops': [
+        [35,'#cc0000'],
+        [50,'#ff0000'],
+        [65,'#ff8000'],
+        [80,'#ffbf00'],
+        [100,'white']
+    ]
+}
+
+var distIndic = 'inf_mort'
+var distFill = {"inf_mort":fill1,"chg_inf_mort":fill2,"immun_ashas":fill3}
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v8', 
+    center: [76.32, 18.56], 
+    hash: true,
+    zoom: 5.02,
+    maxBounds:bounds
+});
+
+var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false,
+        className:'my-popup'
+});
+
+
+function addDistricts(themap) {
+    themap.addSource("districts",{
+        "type":"vector",
+        "tiles": [districtsUrl]
+    });
+}
+
+function addDistrictsLayer(themap,fillColor) {
+    map.addLayer({
+        "id":"districts",
+        "type":"fill",
+        "source":"districts",
+        "layout":{
+            'visibility':'visible'
+        },
+        "source-layer":districtsLayer,
+        "paint": {
+            "fill-color":fill1,
+            "fill-opacity":0.7
+        }
+    })
+}
+
+function round(value, decimals) {
+  return Number(Math.round(value+'e'+decimals)+'e-'+decimals);
+}
+
+map.on('style.load', function() {
+    addDistricts(map);
+    addDistrictsLayer(map,fill1);
+})
+
+var radios = document.getElementsByClassName('map-filter')
+
+for (x = 0; x < radios.length;x++) {
+    radios[x].onclick = function() {
+        radios2 = document.getElementsByClassName('map-filter')
+        for(y=0;y < radios2.length; y++){
+            radios2[y].checked = false
+        }
+        this.checked=true;
+        distIndic = this.defaultValue;
+        console.log(distFill[distIndic])
+        map.setPaintProperty('districts','fill-color',distFill[distIndic])
+
+    }
+}
+
+ map.on('mousemove', 'districts', function(e) {
+
+    var currentIndic = distIndic;
+    map.getCanvas().style.cursor = 'pointer';
+
+    var polygon = turf.polygon(e.features[0].geometry.coordinates);
+    var centroid = turf.centroid(polygon);
+    var center = centroid['geometry']['coordinates']
+    var value = e.features[0].properties[currentIndic];
+    var district = e.features[0].properties['DISTRICT']
+
+    popup.setLngLat(map.getBounds()._ne)
+        .setHTML(
+            'District: '+district +'<br>'+
+            round(value,2))
+        .addTo(map);
+});
+
+map.on('mouseleave', 'districts', function() {
+    map.getCanvas().style.cursor = '';
+    popup.remove();
+});
+
+</script>
+
+<script src='js/webcharts.js'></script>
+
+</body>
+</html>

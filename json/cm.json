@@ -1,0 +1,54 @@
+{
+  "MOUDA BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  "UMRED BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.047
+  },
+  "KUHI BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.071
+  },
+  "KALMESHWAR BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  "RAMTEK BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.168
+  },
+  "KAMPTEE BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.006
+  },
+  "HINGNA BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.008
+  },
+  "KATOL BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.022
+  },
+  "NAGPUR BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.01
+  },
+  "SAONER BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.048
+  },
+  "PARSHIVNI BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  "NARKHED BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  "BHIWAPUR BLOCK": {
+    "period": "2016-03-01",
+    "childMortalityList": 0.038
+  }
+}

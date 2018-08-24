@@ -1,0 +1,38 @@
+indicId,desc,quantType
+17.2.1,Sepsis,TOTAL
+17.2.2,Asphyxia,TOTAL
+17.2.3,LBW,TOTAL
+17.2.4,Others,TOTAL
+10.1.09,Hepatitis-B0,TOTAL
+1.4.1,TT1,TOTAL
+1.4.2,TT2 or Booster,TOTAL
+1.5,Total number of pregnant women given 100 IFA tablets,TOTAL
+1.7.1,Number having Hb level<11 (tested cases),TOTAL
+1.7.2,Number having severe anaemia (Hb<7) treated at institution,TOTAL
+1.1,Total number of pregnant women Registered for ANC  ,TOTAL
+1.1.1,Of which Number registered within first trimester,TOTAL
+1.2,New women registered under JSY,TOTAL
+1.3,Number of pregnant women received 3 ANC check ups,TOTAL
+4.2.1,Number of Newborns weighed at birth,TOTAL
+4.2.2,Number of Newborns having weight less than 2.5 kg,TOTAL
+6.1,Women receiving post partum check-up within 48 hours after delivery,TOTAL
+6.2,Women getting a post partum check up between 48 hours and 14 days,TOTAL
+4.1.1.a,Male,TOTAL
+4.1.1.b ,Female,TOTAL
+4.1.1.c,Total ({a} + {b}),TOTAL
+4.1.2,Still Birth,TOTAL
+2.2,Deliveries conducted at Public Institutions ,TOTAL
+2.3,Number of Deliveries  at accredited Private Institutions,TOTAL
+2.2.2.a,Mothers ,TOTAL
+2.2.2.b,ASHAs,TOTAL
+2.2.2.c,ANM or AWW (only for HPS States),TOTAL
+14.10.1.c,Total {(a) to (b)},TOTAL
+14.12.1,OPD attendance (All),TOTAL
+14.07,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL
+10.4.2,Held,TOTAL
+17.1,Infant deaths within 24 hrs of birth,TOTAL
+17.3.1,Pneumonia,TOTAL
+17.3.2,Diarrhoea,TOTAL
+17.3.3,Fever related,TOTAL
+17.3.4,Measles,TOTAL
+17.3.5,Others,TOTAL

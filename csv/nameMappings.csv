@@ -1,0 +1,49 @@
+code,type,name_boundaries,name_nrhm
+tb_um,taluka-block,Umred,UMRED BLOCK
+tb_sa,taluka-block,Savner,SAONER BLOCK
+tb_ra,taluka-block,Ramtek,RAMTEK BLOCK
+tb_pa,taluka-block,Parsivni,PARSHIVNI BLOCK
+tb_na,taluka-block,Narkher,NARKHED BLOCK
+tb_ng,taluka-block,Nagpur,NAGPUR BLOCK
+tb_md,taluka-block,Mauda,MOUDA BLOCK
+tb_ku,taluka-block,Kuhi,KUHI BLOCK
+tb_kt,taluka-block,Katol,KATOL BLOCK
+tb_km,taluka-block,Kamthi,KAMPTEE BLOCK
+tb_kl,taluka-block,Kalmeshwar,KALMESHWAR BLOCK
+tb_hg,taluka-block,Hingana,HINGNA BLOCK
+tb_bh,taluka-block,Bhiwapur,BHIWAPUR BLOCK
+26,district,Ahmadnagar,Ahmednagar
+5,district,Akola,Akola
+7,district,Amravati,Amravati
+19,district,Aurangabad,Aurangabad
+10,district,Bhandara,Bhandara
+27,district,Bid,Bid
+4,district,Buldana,Buldana
+13,district,Chandrapur,Chandrapur
+2,district,Dhule,Dhule
+12,district,Garhchiroli,Gadchiroli
+11,district,Gondiya,Gondiya
+16,district,Hingoli,Hingoli
+3,district,Jalgaon,Jalgaon
+18,district,Jalna,Jalna
+34,district,Kolhapur,Kolhapur
+28,district,Latur,Latur
+23,district,Mumbai,Brihan Mumbai
+22,district,Mumbai Suburban,Brihan Mumbai
+9,district,Nagpur,Nagpur
+15,district,Nanded,Nanded
+1,district,Nandurbar,Nandurbar
+20,district,Nashik,Nashik
+29,district,Osmanabad,Osmanabad
+17,district,Parbhani,Parbhani
+25,district,Pune,Pune
+24,district,Raigarh,Raigarh
+32,district,Ratnagiri,Ratnagiri
+35,district,Sangli,Sangli
+31,district,Satara,Satara
+33,district,Sindhudurg,Sindhudurg
+30,district,Solapur,Solapur
+21,district,Thane,Thane
+8,district,Wardha,Wardha
+6,district,Washim,Washim
+14,district,Yavatmal,Yavatmal

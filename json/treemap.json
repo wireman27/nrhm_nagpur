@@ -1,0 +1,2264 @@
+[
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "PHC Jawali",
+    "parent": "PHC",
+    "value": 280
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "PHC Nand (Nagpur)",
+    "parent": "PHC",
+    "value": 357
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "PHC Somnala",
+    "parent": "PHC",
+    "value": 478
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "RH Bhivpur",
+    "parent": "RH",
+    "value": 84
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "Dhamangaon1 SC",
+    "parent": "SC",
+    "value": 18
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC JAWALI",
+    "parent": "SC",
+    "value": 30
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC KARGAON",
+    "parent": "SC",
+    "value": 58
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC MALEWADA Jawali",
+    "parent": "SC",
+    "value": 72
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC MEDHA Jawali",
+    "parent": "SC",
+    "value": 37
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC SHIVAPUR",
+    "parent": "SC",
+    "value": 42
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC BESUR",
+    "parent": "SC",
+    "value": 86
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC BHAGVANPUR",
+    "parent": "SC",
+    "value": 25
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC DHAMANGAON Jawali",
+    "parent": "SC",
+    "value": 46
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC MAHALGAON Nand",
+    "parent": "SC",
+    "value": 72
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC MANGARUL Nand",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC NAND",
+    "parent": "SC",
+    "value": 32
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC ADAYL",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC Bhiwapur",
+    "parent": "SC",
+    "value": 157
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC DHAPRLA",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC DHARMPAUR",
+    "parent": "SC",
+    "value": 66
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC NAXI",
+    "parent": "SC",
+    "value": 59
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC PULLAR",
+    "parent": "SC",
+    "value": 43
+  },
+  {
+    "grandparent": "BHIWAPUR BLOCK",
+    "id": "SC SALESARI",
+    "parent": "SC",
+    "value": 37
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "PHC Adegaon (Nagpur)",
+    "parent": "PHC",
+    "value": 225
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "PHC Kanholibara IPHS(24X7)",
+    "parent": "PHC",
+    "value": 411
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "PHC Raipur IPHS(24X7",
+    "parent": "PHC",
+    "value": 2594
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "PHC Takalghat",
+    "parent": "PHC",
+    "value": 948
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "RH Hingana",
+    "parent": "RH",
+    "value": 71
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "Adegaon Hingana SC",
+    "parent": "SC",
+    "value": 65
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Degma khurd",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Kavdas",
+    "parent": "SC",
+    "value": 38
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Umri wagh",
+    "parent": "SC",
+    "value": 46
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Amgaon Kanholibara",
+    "parent": "SC",
+    "value": 84
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Devali Pendhari",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Kanholibara",
+    "parent": "SC",
+    "value": 87
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Khapri Gandhi",
+    "parent": "SC",
+    "value": 75
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Salaidabha",
+    "parent": "SC",
+    "value": 113
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Digdoh",
+    "parent": "SC",
+    "value": 673
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Khairi pannase",
+    "parent": "SC",
+    "value": 803
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Mohgaon",
+    "parent": "SC",
+    "value": 85
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Mondha",
+    "parent": "SC",
+    "value": 90
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Nildoh",
+    "parent": "SC",
+    "value": 717
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "Raipur Hingana SC",
+    "parent": "SC",
+    "value": 226
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Asola Takalghat",
+    "parent": "SC",
+    "value": 61
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Gumgaon",
+    "parent": "SC",
+    "value": 120
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Kotewada",
+    "parent": "SC",
+    "value": 105
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Sirul",
+    "parent": "SC",
+    "value": 83
+  },
+  {
+    "grandparent": "HINGNA BLOCK",
+    "id": "SC Takalgaht",
+    "parent": "SC",
+    "value": 173
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "PHC Gondkhairi",
+    "parent": "PHC",
+    "value": 956
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "PHC Dhapewada",
+    "parent": "PHC",
+    "value": 209
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "PHC Mohapa",
+    "parent": "PHC",
+    "value": 363
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "PHC Tishti",
+    "parent": "PHC",
+    "value": 191
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "RH Kamleshwar",
+    "parent": "RH",
+    "value": 244
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Adasa",
+    "parent": "SC",
+    "value": 42
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Borgaon Dhapewada",
+    "parent": "SC",
+    "value": 34
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Dhapewada Khurd",
+    "parent": "SC",
+    "value": 31
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Sawali Dhapewada",
+    "parent": "SC",
+    "value": 32
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Fetari",
+    "parent": "SC",
+    "value": 94
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Gondkhairi",
+    "parent": "SC",
+    "value": 91
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Kalmbi",
+    "parent": "SC",
+    "value": 98
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Liinga",
+    "parent": "SC",
+    "value": 49
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Mahurzari",
+    "parent": "SC",
+    "value": 132
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Sonegaon Gondkhairi",
+    "parent": "SC",
+    "value": 119
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Ubali",
+    "parent": "SC",
+    "value": 67
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "Uparwahi Kalmeshwar SC",
+    "parent": "SC",
+    "value": 62
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Waroda",
+    "parent": "SC",
+    "value": 167
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Kohali",
+    "parent": "SC",
+    "value": 46
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Madivi",
+    "parent": "SC",
+    "value": 40
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Mohpa",
+    "parent": "SC",
+    "value": 33
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Pardi Mohapa",
+    "parent": "SC",
+    "value": 42
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Parsodi Mohapa",
+    "parent": "SC",
+    "value": 54
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Pipla",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Susundri",
+    "parent": "SC",
+    "value": 56
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Telgaon",
+    "parent": "SC",
+    "value": 106
+  },
+  {
+    "grandparent": "KALMESHWAR BLOCK",
+    "id": "SC Telkamtee",
+    "parent": "SC",
+    "value": 61
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "PHC Gumthala(24X7)",
+    "parent": "PHC",
+    "value": 1161
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "PHC Gumthi",
+    "parent": "PHC",
+    "value": 1422
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SDH (50) Kamptee",
+    "parent": "RH-SDH",
+    "value": 903
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Godhani Railway",
+    "parent": "SC",
+    "value": 173
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Gumthala 1",
+    "parent": "SC",
+    "value": 140
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Khairy",
+    "parent": "SC",
+    "value": 186
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Khasala",
+    "parent": "SC",
+    "value": 120
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Koradi New",
+    "parent": "SC",
+    "value": 212
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Koradi Old",
+    "parent": "SC",
+    "value": 105
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Lonkhairi",
+    "parent": "SC",
+    "value": 82
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Mahadula Gumthi",
+    "parent": "SC",
+    "value": 151
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Yerkheda",
+    "parent": "SC",
+    "value": 243
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Ajani Gumthala",
+    "parent": "SC",
+    "value": 72
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Avandhi Gunthala",
+    "parent": "SC",
+    "value": 78
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Bhugaon",
+    "parent": "SC",
+    "value": 95
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Dighori",
+    "parent": "SC",
+    "value": 46
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Gumthala",
+    "parent": "SC",
+    "value": 60
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Mahalgaon Gumthala",
+    "parent": "SC",
+    "value": 169
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Palsad",
+    "parent": "SC",
+    "value": 71
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Shirpur Gumthala",
+    "parent": "SC",
+    "value": 122
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Sonegaon Gumthala",
+    "parent": "SC",
+    "value": 71
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Tarodi",
+    "parent": "SC",
+    "value": 155
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Temasna",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "KAMPTEE BLOCK",
+    "id": "SC Wadoda",
+    "parent": "SC",
+    "value": 115
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "PHC Kachrisawanga(24X7)",
+    "parent": "PHC",
+    "value": 565
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "PHC Kondhali IPHS(24X7)",
+    "parent": "PHC",
+    "value": 657
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "PHC Yenava",
+    "parent": "PHC",
+    "value": 551
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "RH Katol",
+    "parent": "RH",
+    "value": 368
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Bhorgad",
+    "parent": "SC",
+    "value": 33
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Dhawlapur",
+    "parent": "SC",
+    "value": 67
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Dorli  Bhi.",
+    "parent": "SC",
+    "value": 61
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Gharatwada",
+    "parent": "SC",
+    "value": 45
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC kacharisawanga",
+    "parent": "SC",
+    "value": 79
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Kondhasawli",
+    "parent": "SC",
+    "value": 57
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Ladgao",
+    "parent": "SC",
+    "value": 62
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Mendhepathar",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "Ridhora Kachrisawanga SC",
+    "parent": "SC",
+    "value": 69
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Rualgao",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Dudhala Kondhali",
+    "parent": "SC",
+    "value": 108
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Garamsur Kondhali",
+    "parent": "SC",
+    "value": 40
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Khursapar Kondhali",
+    "parent": "SC",
+    "value": 61
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC kondhali",
+    "parent": "SC",
+    "value": 157
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Masala",
+    "parent": "SC",
+    "value": 31
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Masod Kondhali",
+    "parent": "SC",
+    "value": 70
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Murti",
+    "parent": "SC",
+    "value": 39
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Panjara",
+    "parent": "SC",
+    "value": 68
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Pusagondi",
+    "parent": "SC",
+    "value": 62
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Bordoha",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Digrus  bu.",
+    "parent": "SC",
+    "value": 43
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Dorli  Bha.",
+    "parent": "SC",
+    "value": 26
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Isapur  khurd",
+    "parent": "SC",
+    "value": 49
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Khangao",
+    "parent": "SC",
+    "value": 75
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Mendki",
+    "parent": "SC",
+    "value": 56
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC paradsinga",
+    "parent": "SC",
+    "value": 68
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Wandli",
+    "parent": "SC",
+    "value": 44
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Yenwa",
+    "parent": "SC",
+    "value": 18
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC yerla dhote",
+    "parent": "SC",
+    "value": 43
+  },
+  {
+    "grandparent": "KATOL BLOCK",
+    "id": "SC Zilpa",
+    "parent": "SC",
+    "value": 48
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "PHC Mandhal",
+    "parent": "PHC",
+    "value": 532
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "PHC Salwa",
+    "parent": "PHC",
+    "value": 305
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "PHC Titur",
+    "parent": "PHC",
+    "value": 611
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "PHC Veltur IPHS(24X7)",
+    "parent": "PHC",
+    "value": 368
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "RH Kuhi",
+    "parent": "RH",
+    "value": 0
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Dongarmauda",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Gothangaon Yenava",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Mandhal",
+    "parent": "SC",
+    "value": 66
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Pachakhedi",
+    "parent": "SC",
+    "value": 68
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Tarna",
+    "parent": "SC",
+    "value": 72
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "Thana Mandhal SC",
+    "parent": "SC",
+    "value": 36
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Wag",
+    "parent": "SC",
+    "value": 71
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Adam",
+    "parent": "SC",
+    "value": 48
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Chapegadi",
+    "parent": "SC",
+    "value": 61
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Kujba",
+    "parent": "SC",
+    "value": 49
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Rajola",
+    "parent": "SC",
+    "value": 83
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Salwa",
+    "parent": "SC",
+    "value": 45
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "Ambadi SC",
+    "parent": "SC",
+    "value": 48
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Aptur",
+    "parent": "SC",
+    "value": 35
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Bamhani",
+    "parent": "SC",
+    "value": 53
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Dongargaon Yenava",
+    "parent": "SC",
+    "value": 62
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Khalasna",
+    "parent": "SC",
+    "value": 42
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Kuhi",
+    "parent": "SC",
+    "value": 168
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Malni",
+    "parent": "SC",
+    "value": 43
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Musalgaon",
+    "parent": "SC",
+    "value": 57
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Silli",
+    "parent": "SC",
+    "value": 54
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Titur",
+    "parent": "SC",
+    "value": 31
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Ambhora",
+    "parent": "SC",
+    "value": 33
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Dhanla Yenava",
+    "parent": "SC",
+    "value": 27
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Fegad",
+    "parent": "SC",
+    "value": 59
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Gonha",
+    "parent": "SC",
+    "value": 37
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Hardoli",
+    "parent": "SC",
+    "value": 37
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Jiwanapur",
+    "parent": "SC",
+    "value": 33
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Sirsi Yenava",
+    "parent": "SC",
+    "value": 34
+  },
+  {
+    "grandparent": "KUHI BLOCK",
+    "id": "SC Veltur",
+    "parent": "SC",
+    "value": 39
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "PHC Khat",
+    "parent": "PHC",
+    "value": 454
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "PHC Kondamendhi",
+    "parent": "PHC",
+    "value": 463
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "PHC Mauda IPHS(24X7)",
+    "parent": "PHC",
+    "value": 995
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "PHC Tarasa",
+    "parent": "PHC",
+    "value": 648
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Dahegaon Khat",
+    "parent": "SC",
+    "value": 66
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Dharmapuri Khat",
+    "parent": "SC",
+    "value": 101
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Khat B",
+    "parent": "SC",
+    "value": 50
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Niharwani",
+    "parent": "SC",
+    "value": 54
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Tanda",
+    "parent": "SC",
+    "value": 82
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Aroli",
+    "parent": "SC",
+    "value": 136
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Dhanoli Kondamendhi",
+    "parent": "SC",
+    "value": 87
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Kondamendhi B",
+    "parent": "SC",
+    "value": 56
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Rewaral",
+    "parent": "SC",
+    "value": 125
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Aajangaon",
+    "parent": "SC",
+    "value": 109
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Bhamewada",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Dhanla",
+    "parent": "SC",
+    "value": 108
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Gowari",
+    "parent": "SC",
+    "value": 118
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Mathani",
+    "parent": "SC",
+    "value": 124
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Mouda",
+    "parent": "SC",
+    "value": 198
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Wanjara",
+    "parent": "SC",
+    "value": 140
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Babdev",
+    "parent": "SC",
+    "value": 76
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Chacher",
+    "parent": "SC",
+    "value": 137
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Dudhala",
+    "parent": "SC",
+    "value": 79
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Gagner",
+    "parent": "SC",
+    "value": 80
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Nimkheda Tarasa",
+    "parent": "SC",
+    "value": 93
+  },
+  {
+    "grandparent": "MOUDA BLOCK",
+    "id": "SC Tuman",
+    "parent": "SC",
+    "value": 54
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "PHC Borkhedi",
+    "parent": "PHC",
+    "value": 1543
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "PHC Vyahad",
+    "parent": "PHC",
+    "value": 1246
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "Borkhedi Nagpur SC",
+    "parent": "SC",
+    "value": 222
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Bothali",
+    "parent": "SC",
+    "value": 25
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Butibori New",
+    "parent": "SC",
+    "value": 520
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Butibori old",
+    "parent": "SC",
+    "value": 148
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Dongargaon Borkhedi",
+    "parent": "SC",
+    "value": 173
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Kanhalgaon",
+    "parent": "SC",
+    "value": 161
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Khapri Railway",
+    "parent": "SC",
+    "value": 155
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Sonegaon lodhi",
+    "parent": "SC",
+    "value": 75
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Bajargaon",
+    "parent": "SC",
+    "value": 77
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Dhamna",
+    "parent": "SC",
+    "value": 291
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Lava",
+    "parent": "SC",
+    "value": 212
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Neri Vyhad",
+    "parent": "SC",
+    "value": 63
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Shiwa",
+    "parent": "SC",
+    "value": 87
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "SC Wadi Vyadad",
+    "parent": "SC",
+    "value": 491
+  },
+  {
+    "grandparent": "NAGPUR BLOCK",
+    "id": "WH Nagpur",
+    "parent": "WH",
+    "value": 23797
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "PHC Mendhala",
+    "parent": "PHC",
+    "value": 336
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "PHC Jalalkheda",
+    "parent": "PHC",
+    "value": 398
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "PHC Mowad",
+    "parent": "PHC",
+    "value": 425
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "PHC Sawaergaon",
+    "parent": "PHC",
+    "value": 401
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "RH Narkhed",
+    "parent": "RH",
+    "value": 263
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Bharsingi",
+    "parent": "SC",
+    "value": 65
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Bhishnur Jalalkheda",
+    "parent": "SC",
+    "value": 55
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Jalalkheda",
+    "parent": "SC",
+    "value": 91
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Jamgaon Jalalkheda",
+    "parent": "SC",
+    "value": 85
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Mahendri",
+    "parent": "SC",
+    "value": 39
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Rohna",
+    "parent": "SC",
+    "value": 63
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC DAWSA",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC KHAPA",
+    "parent": "SC",
+    "value": 39
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC LOHARI SAWANGA",
+    "parent": "SC",
+    "value": 60
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC MENDHLA",
+    "parent": "SC",
+    "value": 10
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC RAMTHI",
+    "parent": "SC",
+    "value": 33
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC THADIPAWNI",
+    "parent": "SC",
+    "value": 70
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC WADVIHIRA",
+    "parent": "SC",
+    "value": 46
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Belona",
+    "parent": "SC",
+    "value": 125
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Khairgaon Mowad",
+    "parent": "SC",
+    "value": 76
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Kharsoli",
+    "parent": "SC",
+    "value": 54
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Mowad",
+    "parent": "SC",
+    "value": 0
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Thugaondev",
+    "parent": "SC",
+    "value": 34
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC Tinkheda",
+    "parent": "SC",
+    "value": 53
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC AMBADA DESHMUKH",
+    "parent": "SC",
+    "value": 53
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC PIMPLA KEVALRAM",
+    "parent": "SC",
+    "value": 75
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC PITHORI",
+    "parent": "SC",
+    "value": 45
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "Sawargaon Narkhed SC",
+    "parent": "SC",
+    "value": 102
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SINDHI Sawaergaon SC",
+    "parent": "SC",
+    "value": 36
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC SINGARKHEDA",
+    "parent": "SC",
+    "value": 35
+  },
+  {
+    "grandparent": "NARKHED BLOCK",
+    "id": "SC YENIKONI",
+    "parent": "SC",
+    "value": 55
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "PHC Dhahegaon Joshi",
+    "parent": "PHC",
+    "value": 486
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "PHC Dorali",
+    "parent": "PHC",
+    "value": 243
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "PHC Kanhan",
+    "parent": "PHC",
+    "value": 1142
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "PHC Navagaon Khairi(24X7)",
+    "parent": "PHC",
+    "value": 257
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "PHC Satak",
+    "parent": "PHC",
+    "value": 317
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "RH Parshivani",
+    "parent": "RH",
+    "value": 5
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC Dahegaon JOSHI",
+    "parent": "SC",
+    "value": 35
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC KARANBHAD",
+    "parent": "SC",
+    "value": 80
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC PALORA",
+    "parent": "SC",
+    "value": 69
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC Parshivani",
+    "parent": "SC",
+    "value": 186
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC SALAI",
+    "parent": "SC",
+    "value": 69
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC Mahedi",
+    "parent": "SC",
+    "value": 84
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "Tamaswadi Dorali SC",
+    "parent": "SC",
+    "value": 132
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC COLMINCE",
+    "parent": "SC",
+    "value": 145
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC JUNI Kamptee",
+    "parent": "SC",
+    "value": 111
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC KANDRI",
+    "parent": "SC",
+    "value": 233
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC KHANDALA Kanhan",
+    "parent": "SC",
+    "value": 70
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "Pipri Kanhan SC",
+    "parent": "SC",
+    "value": 114
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC SIHORA",
+    "parent": "SC",
+    "value": 123
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC Tekadi",
+    "parent": "SC",
+    "value": 67
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC Kolitmara",
+    "parent": "SC",
+    "value": 31
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "Mahuli SC",
+    "parent": "SC",
+    "value": 80
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC NARHAR",
+    "parent": "SC",
+    "value": 15
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC Navegaonkhairi",
+    "parent": "SC",
+    "value": 53
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC Palsawali",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC SALEGHAT",
+    "parent": "SC",
+    "value": 14
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC AMADI",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC NIMKHEDA",
+    "parent": "SC",
+    "value": 110
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC SATAK",
+    "parent": "SC",
+    "value": 67
+  },
+  {
+    "grandparent": "PARSHIVNI BLOCK",
+    "id": "SC WARADA",
+    "parent": "SC",
+    "value": 61
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "PHC Bhandarbodi",
+    "parent": "PHC",
+    "value": 339
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "PHC Hiwara Bazar",
+    "parent": "PHC",
+    "value": 381
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "PHC Karwahi",
+    "parent": "PHC",
+    "value": 331
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "PHC Mansar",
+    "parent": "PHC",
+    "value": 478
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "PHC Nagardhan(24X7)",
+    "parent": "PHC",
+    "value": 538
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SDH (50) Ramtek",
+    "parent": "RH-SDH",
+    "value": 309
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "RH Devlapar",
+    "parent": "RH-SDH",
+    "value": 49
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Bhandarbodi",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Guguldoh",
+    "parent": "SC",
+    "value": 22
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Mahadula",
+    "parent": "SC",
+    "value": 73
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Mandri",
+    "parent": "SC",
+    "value": 36
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Musewadi",
+    "parent": "SC",
+    "value": 36
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "Shivani Nagardham SC",
+    "parent": "SC",
+    "value": 60
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "Umari Bhandarbodi SC",
+    "parent": "SC",
+    "value": 69
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Belda",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Dahoda",
+    "parent": "SC",
+    "value": 37
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Ghoti Hiwara",
+    "parent": "SC",
+    "value": 32
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC HiwaraBazar",
+    "parent": "SC",
+    "value": 35
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Manegaon Hiwara",
+    "parent": "SC",
+    "value": 67
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Pathrai",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Sitapur",
+    "parent": "SC",
+    "value": 80
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Tangla",
+    "parent": "SC",
+    "value": 38
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Bandra",
+    "parent": "SC",
+    "value": 47
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Devalapar",
+    "parent": "SC",
+    "value": 97
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Karwahi",
+    "parent": "SC",
+    "value": 71
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Lodha",
+    "parent": "SC",
+    "value": 37
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Pipriya",
+    "parent": "SC",
+    "value": 29
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Wadamba",
+    "parent": "SC",
+    "value": 50
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Bondri",
+    "parent": "SC",
+    "value": 60
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Borda Mansar",
+    "parent": "SC",
+    "value": 46
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Kandri Mansar",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Khairi Bijewada",
+    "parent": "SC",
+    "value": 128
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Khumari",
+    "parent": "SC",
+    "value": 59
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Mansar",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Patgovari",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Chichala",
+    "parent": "SC",
+    "value": 140
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Dongari Nagardhan",
+    "parent": "SC",
+    "value": 49
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Kachurwahi",
+    "parent": "SC",
+    "value": 116
+  },
+  {
+    "grandparent": "RAMTEK BLOCK",
+    "id": "SC Nagardhan",
+    "parent": "SC",
+    "value": 233
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "PHC Badegaon",
+    "parent": "PHC",
+    "value": 387
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "PHC Chicholi",
+    "parent": "PHC",
+    "value": 922
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "PHC Kelwad IPHS(24X7)",
+    "parent": "PHC",
+    "value": 384
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "PHC Khapa(24X7)",
+    "parent": "PHC",
+    "value": 393
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "PHC Patansawangi",
+    "parent": "PHC",
+    "value": 730
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Badegaon",
+    "parent": "SC",
+    "value": 49
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Khubala",
+    "parent": "SC",
+    "value": 47
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Kotcchi",
+    "parent": "SC",
+    "value": 54
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Kothurana",
+    "parent": "SC",
+    "value": 98
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Nagalwadi",
+    "parent": "SC",
+    "value": 46
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Sironji",
+    "parent": "SC",
+    "value": 50
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Bhanegaon",
+    "parent": "SC",
+    "value": 108
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Bina",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Chicholi",
+    "parent": "SC",
+    "value": 0
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Khaparkheda",
+    "parent": "SC",
+    "value": 183
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Pota Chicholi",
+    "parent": "SC",
+    "value": 158
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Sillewada CT",
+    "parent": "SC",
+    "value": 100
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Suradevi",
+    "parent": "SC",
+    "value": 62
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Walani",
+    "parent": "SC",
+    "value": 145
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Jatamkhora",
+    "parent": "SC",
+    "value": 25
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Joga",
+    "parent": "SC",
+    "value": 15
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Kelwad",
+    "parent": "SC",
+    "value": 91
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Khapa (Narsala)",
+    "parent": "SC",
+    "value": 54
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Khursapar",
+    "parent": "SC",
+    "value": 28
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Nanda Gomukh",
+    "parent": "SC",
+    "value": 57
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Umari Kelwad",
+    "parent": "SC",
+    "value": 68
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Ajani",
+    "parent": "SC",
+    "value": 52
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Kapa( Kelwad)",
+    "parent": "SC",
+    "value": 76
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Khairi (Dhalgaon)",
+    "parent": "SC",
+    "value": 53
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Kodegaon",
+    "parent": "SC",
+    "value": 39
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Wakodi Khapa",
+    "parent": "SC",
+    "value": 74
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Isapur Patansawangi",
+    "parent": "SC",
+    "value": 150
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Katodi",
+    "parent": "SC",
+    "value": 57
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Malegaon Patansawangi",
+    "parent": "SC",
+    "value": 203
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Patansaongi",
+    "parent": "SC",
+    "value": 150
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Pipla (daB)",
+    "parent": "SC",
+    "value": 64
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Sawarmendha",
+    "parent": "SC",
+    "value": 44
+  },
+  {
+    "grandparent": "SAONER BLOCK",
+    "id": "SC Waki Patansawangi",
+    "parent": "SC",
+    "value": 59
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "PHC Bela(24X7)",
+    "parent": "PHC",
+    "value": 331
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "PHC Makardhokda",
+    "parent": "PHC",
+    "value": 527
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "PHC Pachgaon IPHS(24X7)",
+    "parent": "PHC",
+    "value": 943
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "PHC Sirsi",
+    "parent": "PHC",
+    "value": 185
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "RH Omred",
+    "parent": "RH",
+    "value": 620
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Aashta",
+    "parent": "SC",
+    "value": 30
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Bela",
+    "parent": "SC",
+    "value": 57
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Nishanghat",
+    "parent": "SC",
+    "value": 41
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Sawangi Bela",
+    "parent": "SC",
+    "value": 20
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Shedeshwar",
+    "parent": "SC",
+    "value": 43
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Vadgaon Bela",
+    "parent": "SC",
+    "value": 62
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Aamgaon",
+    "parent": "SC",
+    "value": 45
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Davvha",
+    "parent": "SC",
+    "value": 51
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Godhni",
+    "parent": "SC",
+    "value": 71
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Hevati",
+    "parent": "SC",
+    "value": 137
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Makardhokada",
+    "parent": "SC",
+    "value": 50
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Navegaon",
+    "parent": "SC",
+    "value": 95
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Borgaon Pachgaon",
+    "parent": "SC",
+    "value": 31
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Champa",
+    "parent": "SC",
+    "value": 83
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Kalmana Pachgaon",
+    "parent": "SC",
+    "value": 163
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Pachgaon",
+    "parent": "SC",
+    "value": 99
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Salai Godhni",
+    "parent": "SC",
+    "value": 164
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Vihirgaon Pachgaon",
+    "parent": "SC",
+    "value": 226
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Virli",
+    "parent": "SC",
+    "value": 110
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Hivara Sirsi",
+    "parent": "SC",
+    "value": 38
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Kinahala",
+    "parent": "SC",
+    "value": 28
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Pipra",
+    "parent": "SC",
+    "value": 24
+  },
+  {
+    "grandparent": "UMRED BLOCK",
+    "id": "SC Sirsi",
+    "parent": "SC",
+    "value": 0
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.044
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.022
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.056
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.014
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.037
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.015
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.009
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.021
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.211
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.022
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-04-01",
+    "childMortalityList": 0.109
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.027
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.019
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.028
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.083
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.015
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.075
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.011
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.05
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.037
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.088
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-05-01",
+    "childMortalityList": 0.043
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.019
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.075
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.054
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.011
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.017
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.035
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.032
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.028
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-06-01",
+    "childMortalityList": 0.027
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.055
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.028
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.018
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.042
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.041
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.015
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.039
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.023
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.167
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.077
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-07-01",
+    "childMortalityList": 0.023
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.029
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.052
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.025
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.054
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.019
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.035
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.083
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.017
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.019
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.013
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-08-01",
+    "childMortalityList": 0.045
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.017
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.062
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.094
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.043
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.011
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.034
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.044
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.038
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.01
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.011
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.006
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-09-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.04
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.029
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.012
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.015
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.029
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.072
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.02
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.023
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.019
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-10-01",
+    "childMortalityList": 0.013
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.013
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.066
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.066
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.022
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.108
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.012
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.041
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.012
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-11-01",
+    "childMortalityList": 0.043
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0.065
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0.056
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0.028
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0.026
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0.037
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0.014
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2015-12-01",
+    "childMortalityList": 0.027
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0.021
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0.068
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0.043
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0.057
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0.016
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2016-01-01",
+    "childMortalityList": 0.014
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.073
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.008
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.028
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.025
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.069
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.014
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.024
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0.095
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2016-02-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "BHIWAPUR BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.038
+  },
+  {
+    "block": "HINGNA BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.008
+  },
+  {
+    "block": "PARSHIVNI BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "NARKHED BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KUHI BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.071
+  },
+  {
+    "block": "KALMESHWAR BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "KAMPTEE BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.006
+  },
+  {
+    "block": "MOUDA BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0
+  },
+  {
+    "block": "SAONER BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.048
+  },
+  {
+    "block": "KATOL BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.022
+  },
+  {
+    "block": "RAMTEK BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.168
+  },
+  {
+    "block": "UMRED BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.047
+  },
+  {
+    "block": "NAGPUR BLOCK",
+    "period": "2016-03-01",
+    "childMortalityList": 0.01
+  }
+]

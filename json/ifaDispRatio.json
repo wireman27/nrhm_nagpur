@@ -1,0 +1,22 @@
+[
+  {
+    "typeFac": "PHC",
+    "ifaDisp": 0.66
+  },
+  {
+    "typeFac": "RH",
+    "ifaDisp": 0.49
+  },
+  {
+    "typeFac": "RH-SDH",
+    "ifaDisp": 0.28
+  },
+  {
+    "typeFac": "SC",
+    "ifaDisp": 0.67
+  },
+  {
+    "typeFac": "WH",
+    "ifaDisp": 0.28
+  }
+]

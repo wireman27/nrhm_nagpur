@@ -1,0 +1,334 @@
+indicId,desc,parent
+Part A,REPRODUCTIVE AND CHILD HEALTH,none
+M1,Ante Natal Care Services ANC,Part A
+1.1,Total number of pregnant women Registered for ANC  ,M1
+1.1.1,Of which Number registered within first trimester,1.1
+1.2,New women registered under JSY,M1
+1.3,Number of pregnant women received 3 ANC check ups,M1
+1.4,Number of pregnant women given,M1
+1.4.1,TT1,1.4
+1.4.2,TT2 or Booster,1.4
+1.5,Total number of pregnant women given 100 IFA tablets,M1
+1.6,Pregnant women with Hypertension (BP>140/90) ,M1
+1.6.1,New cases detected at institution,1.6
+1.6.2,Number of Eclampsia cases managed during delivery,1.6
+1.7,Pregnant women with Anaemia ,M1
+1.7.1,Number having Hb level<11 (tested cases),1.7
+1.7.2,Number having severe anaemia (Hb<7) treated at institution,1.7
+M2,Deliveries ,Part A
+2.1,Deliveries conducted at Home:,M2
+2.1.1,Number of Home Deliveries attended by:,2.1
+2.1.1.a,SBA Trained (Doctor/Nurse/ANM),2.1.1
+2.1.1.b,Non SBA (Trained TBA/Relatives/etc.),2.1.1
+2.1.1.c,Total {(a) to (b)},2.1.1
+2.1.2,Number of newborns visited within 24 hours of Home Delivery,2.1
+2.1.3,Number of mothers paid JSY incentive for Home deliveries,2.1
+2.2,Deliveries conducted at Public Institutions ,M2
+2.2.1,Of which Number discharged under 48 hours of delivery,2.2
+2.2.2,Number of cases where JSY incentive paid to,2.2
+2.2.2.a,Mothers ,2.2.2
+2.2.2.b,ASHAs,2.2.2
+2.2.2.c,ANM or AWW (only for HPS States),2.2.2
+2.3,Number of Deliveries  at accredited Private Institutions,M2
+2.3.1,Number of institutional delivery cases where JSY incentive paid to,2.3
+2.3.1.a,Mothers ,2.3.1
+2.3.1.b,ASHAs,2.3.1
+2.3.1.c,ANM or AWW (only for HPS States),2.3.1
+M3,Number of Caesarean C-Section deliveries performed at ,Part A
+3.1,Public facilities,M3
+3.1.1,PHC,3.1
+3.1.2,CHC ,3.1
+3.1.3,Sub-divisional hospital/District Hospital,3.1
+3.1.4,At Other State Owned Public Institutions,3.1
+3.1.5,Total {(3.1.1) to (3.1.4)},3.1
+3.2,Private facilities,M3
+M4,Pregnancy outcome & weight of new-born,Part A
+4.1,Pregnancy Outcome (in number),M4
+4.1.1,Live Birth,4.1
+4.1.1.a,Male,4.1.1
+4.1.1.b ,Female,4.1.1
+4.1.1.c,Total ({a} + {b}),4.1.1
+4.1.2,Still Birth,4.1
+4.1.3,Abortion (spontaneous/induced),4.1
+4.2,Details of Newborn children weighed,M4
+4.2.1,Number of Newborns weighed at birth,4.2
+4.2.2,Number of Newborns having weight less than 2.5 kg,4.2
+4.3,Number of Newborns breast fed within 1 hour,M4
+M5,Complicated pregnanices,Part A
+5.1,Number of cases of pregnant women with Obstetric Complications and attended at Public facilities,M5
+5.1.1,At PHCs ,5.1
+5.1.2,At CHCs ,5.1
+5.1.3,At Sub-divisional hospitals/ District Hospitals,5.1
+5.1.4,At Other State Owned Public Institutions,5.1
+5.1.5,Total {(5.1.1) to (5.1.4)},5.1
+5.2,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,M5
+5.3,Number of Complicated pregnancies treated with,M5
+5.3.1,IV antibiotics,5.3
+5.3.2,IV antihypertensive/Magsulph injection,5.3
+5.3.3,IV Oxytocis,5.3
+5.3.4,Blood Transfusion ,5.3
+M6,Post - Natal Care,Part A
+6.1,Women receiving post partum check-up within 48 hours after delivery,M6
+6.2,Women getting a post partum check up between 48 hours and 14 days,M6
+6.3,PNC maternal complications attended ,M6
+M7,Medical Termination of Pregnancy (MTP),Part A
+7.1,Number of MTPs conducted at Public Institutions,M7
+7.1.1,Up to 12 weeks of pregnancy,7.1
+7.1.2,More than 12 weeks of pregnancy,7.1
+7.1.3,Total {(7.1.1) to (7.1.2)},7.1
+7.2,Number of MTPs conducted at Private Facilities,M7
+M8,RTI/STI Cases,Part A
+8.1,Number of new RTI/STI for which treatment initiated,M8
+8.1.a,Male,8.1
+8.1.b,Female,8.1
+8.1.c,Total {(a) to (b)},8.1
+8.2,Number of wet mount tests conducted,M8
+M9,Family Planning,Part A
+9.01,Number of NSV/Conventional Vasectomy conducted,M9
+9.1.1,At Public facilities,9.01
+9.1.1.a,At PHCs ,9.1.1
+9.1.1.b,At CHCs ,9.1.1
+9.1.1.c,At Sub-divisional hospitals/ District Hospitals,9.1.1
+9.1.1.d,At Other State Owned Public Institutions,9.1.1
+9.1.1.e,Total {(a) to (d)},9.1.1
+9.1.2,At Private facilities,9.01
+9.02,Number of Laparoscopic sterilizations conducted,M9
+9.2.1,At Public facilities,9.02
+9.2.1.a,At PHCs ,9.2.1
+9.2.1.b,At CHCs ,9.2.1
+9.2.1.c,At Sub-divisional hospitals/ District Hospitals,9.2.1
+9.2.1.d,At Other State Owned Public Institutions,9.2.1
+9.2.1.e,Total {(a) to (d)},9.2.1
+9.2.2,At Private facilities,9.02
+9.03,Number of Mini-lap sterilizations conducted ,M9
+9.3.1,At Public facilities,9.03
+9.3.1.a,At PHCs ,9.3.1
+9.3.1.b,At CHCs ,9.3.1
+9.3.1.c,At Sub-divisional hospitals/ District Hospitals,9.3.1
+9.3.1.d,At Other State Owned Public Institutions,9.3.1
+9.3.1.e,Total {(a) to (d)},9.3.1
+9.3.2,At Private facilities,9.03
+9.04,Number of Post-Partum sterilizations conducted ,M9
+9.4.1,Public facilities,9.04
+9.4.1.a,At PHCs ,9.4.1
+9.4.1.b,At CHCs ,9.4.1
+9.4.1.c,At Sub-divisional hospitals/ District Hospitals,9.4.1
+9.4.1.d,At Other State Owned Public Institutions,9.4.1
+9.4.1.e,Total {(a) to (d)},9.4.1
+9.4.2,Private facilities,9.04
+9.05,Number of IUD Insertions,M9
+9.5.1,Public facilities,9.05
+9.5.1.a,At Sub-Centres ,9.5.1
+9.5.1.b,At PHCs ,9.5.1
+9.5.1.c,At CHCs ,9.5.1
+9.5.1.d,At Sub-divisional hospitals/ District Hospitals,9.5.1
+9.5.1.e,At Other State Owned Public Institutions,9.5.1
+9.5.1.f,Total {(a) to (e)},9.5.1
+9.5.1.A,"Out of above total, Post-partum (within 48 hours of delivery) IUD Insertions",9.5.1
+9.5.2,Private facilities,9.05
+9.06,Number of IUD removals,M9
+9.07,Number of Oral Pills cycles distributed,M9
+9.08,Number of Condom pieces distributed,M9
+9.09,Number of Centchroman (weekly) pills given,M9
+9.10,Number of Emergency Contraceptive Pills distributed,M9
+9.11,Quality in sterilization services,M9
+9.11.1,Number of complications following sterilization,9.11
+9.11.1.a,Male,9.11.1
+9.11.1.b,Female,9.11.1
+9.11.2,Number of failures following sterilization,9.11
+9.11.2.a,Male,9.11.2
+9.11.2.b,Female,9.11.2
+9.11.3,Number of deaths following sterilization,9.11
+9.11.3.a,Male,9.11.3
+9.11.3.b,Female,9.11.3
+9.12,Number of Institutions having NSV trained doctors,M9
+M10,CHILD IMMUNIZATION,Part A
+10.1,Number of Infants 0 to 11 months old who received the following:,M10
+10.1.01,BCG,10.1
+10.1.02,DPT1,10.1
+10.1.03,DPT2,10.1
+10.1.04,DPT3,10.1
+10.1.04A,Pentavalent 1,10.1.04
+10.1.04B,Pentavalent 2,10.1.04
+10.1.04C,Pentavalent 3,10.1.04
+10.1.05,OPV 0 (Birth Dose),10.1
+10.1.06,OPV1,10.1
+10.1.07,OPV2,10.1
+10.1.08,OPV3,10.1
+10.1.09,Hepatitis-B0,10.1
+10.1.10,Hepatitis-B1,10.1
+10.1.11,Hepatitis-B2,10.1
+10.1.12,Hepatitis-B3,10.1
+10.1.13,Measles,10.1
+10.1.13,Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,10.1
+10.1.13,Measles,10.1
+10.1.13,Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,10.1
+10.1.14,Measles 2nd Dose,10.1
+10.1.13.a,Male,10.1.13
+10.1.13.b,Female,10.1.13
+10.1.13.c,Total {(a) to (b)},10.1.13
+10.1.A,No. of children aged 9 to 12 months who received JE 1st dose,10.1
+10.2,Number of children more than 16 months who received the following,M10
+10.2.1,DPT Booster,10.2
+10.2.2,OPV Booster,10.2
+10.2.3,"Measles, Mumps, Rubella (MMR) Vaccine",10.2
+10.3,Immunisation Status,M10
+10.3.1,Total number of children aged between 12 and 23 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,10.3
+10.3.1.a,Male,10.3.1
+10.3.1.b,Female,10.3.1
+10.3.1.c,Total {(a) to (b)},10.3.1
+10.3.2,Children more than 5 years given DT5,10.3
+10.3.3,Children more than 10 years given TT10,10.3
+10.3.4,Children more than 16 years given TT16,10.3
+10.3.5,Adverse Event Following Immunisation (AEFI),10.3
+10.3.5.a,Abscess,10.3.5
+10.3.5.b,Death,10.3.5
+10.3.5.c,Others,10.3.5
+10.4,Number of Immunisation sessions during the month,M10
+10.4.1,Planned,10.4
+10.4.2,Held,10.4
+10.4.3,Sessions where ASHAs were present,10.4
+M11,Number of Vitamin A doses ,Part A
+11.1,Administered between 9 months and 5 years,M11
+11.1.1,Dose-1,11.1
+11.1.2,Dose-5,11.1
+11.1.3,Dose-9,11.1
+M12,Number of cases of Childhood Diseases reported during the month0-5 years: ,Part A
+12.1,Diphtheria                         ,M12
+12.2,Pertussis                            ,M12
+12.3,Tetanus Neonatorum,M12
+12.4,Tetanus others,M12
+12.5,Polio,M12
+12.6,Measles,M12
+12.7,Diarrhoea and dehydration,M12
+12.8,Malaria,M12
+12.9,Number admitted with Respiratory Infections,M12
+Part B,Other Programmes,none
+M13,Blindness Control Programme,Part B
+13.1,Number of Patients operated for cataract,M13
+13.2,Number of Intraocular Lens(IOL) implantations,M13
+13.3,Number of School children detected with Refractive errors,M13
+13.4,Number of children provided free glasses,M13
+13.5,Number of eyes collected,M13
+13.6,Number of eyes utilised,M13
+Part C,Health Facility Services,none
+M14,Patient Services,Part C
+14.01,Number of CHC/ SDH/ DH functioning as an FRUs,M14
+14.02,Number of PHCs functioning  24X7 3 Staff Nurses?,M14
+14.03,Number of Anganwadi centres reported to have conducted VHNDs,M14
+14.04,Number of facilities having a Rogi Kalyan Samiti,M14
+14.05,Number of RKS meetings held during the month,M14
+14.06,Number of  facilities having Ambulance services  Assured Referral Services available,M14
+14.07,Total Number of times the Ambulance was used for transporting patients during the month,M14
+14.08,Number of Institutions having Operational Sick New Born and Child Care Units,M14
+14.09,Number of functional Laproscopes in CHC/SDH/DH,M14
+14.10,Inpatient,M14
+14.10.1,Admissions ,14.10
+14.10.1.a,Male,14.10.1
+14.10.1.b,Female,14.10.1
+14.10.1.c,Total {(a) to (b)},14.10.1
+14.10.2,Deaths,14.10
+14.10.2.a,Male,14.10.2
+14.10.2.b,Female,14.10.2
+14.10.2.c,Total {(a) to (b)},14.10.2
+14.11,In-Patient Head Count at midnight,M14
+14.12,Outpatient,M14
+14.12.1,OPD attendance (All),14.12
+14.13,Operation Theatre,M14
+14.13.1,Operation major (General and spinal anaesthesia),14.13
+14.13.1A,"Out of 14.13.1, Gynecology-Hysterectomy Surgeries ",14.13.1
+14.13.2,Operation minor (No or local anaesthesia),14.13
+14.14,"Others (Include other services like Dental, Ophthalmology , AYUSH etc.)",M14
+14.14.a,AYUSH,14.14
+14.14.b,Dental Procedures,14.14
+14.14.c,Adolescent counselling services,14.14
+M15,Laboratory Testing,Part C
+15.1,Laboratory Test Details,M15
+15.1.1,Hb Tests conducted,15.1
+15.1.1.a,Number of Hb tests conducted,15.1.1
+15.1.1.b,Of which number having Hb < 7 mg,15.1.1
+15.1.2,HIV tests conducted,15.1
+15.1.2.a,Male,15.1.2
+15.1.2.b,Female-Non ANC,15.1.2
+15.1.2.c,Female with ANC,15.1.2
+15.1.2.d,Total {(a) to (c)},15.1.2
+15.2,Widal tests conducted,M15
+15.3,VDRL  tests conducted,M15
+15.3.a,Male,15.3
+15.3.b,Female-Non ANC,15.3
+15.3.c,Female with ANC,15.3
+15.3.d,Total {(a) to (c)},15.3
+15.4,Malaria tests conducted,M15
+15.4.1,Blood smears examined,15.4
+15.4.2,Plasmodium Vivax test positive,15.4
+15.4.3,Plasmodium Falciparum test positive,15.4
+Part D,Monthly Inventory Status,none
+M16,Stock Position (During the month),Part D
+16.1,Vaccines,M16
+16.1.1,DPT,16.1
+16.1.2,OPV,16.1
+16.1.3,TT,16.1
+16.1.4,DT,16.1
+16.1.5,BCG,16.1
+16.1.6,Measles,16.1
+16.1.7,JE,16.1
+16.1.8,Hepatitis B,16.1
+16.2,Family Planning,M16
+16.2.1,IUD 380 A,16.2
+16.2.2,Condoms,16.2
+16.2.3,Oral Contraceptive,16.2
+16.2.4,Emergency Contraceptive Pills,16.2
+16.2.5,Tubal rings,16.2
+16.3,Other Items,M16
+16.3.01,Injection Oxytocin,16.3
+16.3.02,Gloves,16.3
+16.3.03,MVA Syringes,16.3
+16.3.04,Tab. Fluconazole,16.3
+16.3.05,Blood Transfusion sets,16.3
+16.3.06,Gluteraldehyde 2%,16.3
+16.3.07,IFA tablets,16.3
+16.3.08,IFA Syrup (Paediatric),16.3
+16.3.09,Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),16.3
+16.3.10,Vitamin A solution,16.3
+16.3.11,ORS (New WHO),16.3
+16.4,Syringes,M16
+16.4.1,0.1 ml (AD),16.4
+16.4.2,0.5 ml (AD),16.4
+16.4.3,5.0 ml (Disposable),16.4
+Part E,Mortality Details,none
+M17,Details of deaths reported during the month with probable causes:,Part E
+17.1,Infant deaths within 24 hrs of birth,M17
+17.2,Infant Deaths up to 4 weeks by cause,M17
+17.2.1,Sepsis,17.2
+17.2.2,Asphyxia,17.2
+17.2.3,LBW,17.2
+17.2.4,Others,17.2
+17.3,Infant/Child Deaths up to 5 years by cause,M17
+17.3.1,Pneumonia,17.3
+17.3.2,Diarrhoea,17.3
+17.3.3,Fever related,17.3
+17.3.4,Measles,17.3
+17.3.5,Others,17.3
+17.4,Adolescent/Adult deaths by cause,M17
+17.4.1,Diarrhoeal diseases,17.4
+17.4.2,Tuberculosis,17.4
+17.4.3,Respiratory diseases including infections (other than TB),17.4
+17.4.4,Malaria,17.4
+17.4.5,Other Fever Related,17.4
+17.4.6,HIV/AIDS,17.4
+17.4.7,Heart disease/Hypertension related,17.4
+17.4.8,Neurological disease including strokes,17.4
+17.4.9,Maternal Deaths,17.4
+17.4.9(a),Abortion,17.4.9
+17.4.9(b),Obstructed/prolonged labour,17.4.9
+17.4.9(c),Severe hypertesnion/fits,17.4.9
+17.4.9(d),Bleeding,17.4.9
+17.4.9(e),High fever,17.4.9
+17.4.9(f),Other Causes (including causes not known),17.4.9
+17.4.10,Trauma/Accidents/Burn cases ,17.4
+17.4.11,Suicide,17.4
+17.4.12,Animal bites and stings,17.4
+17.4.13,Other Diseases,17.4
+17.4.13(a),Known Acute Disease,17.4.13
+17.4.13(b),Known Chronic Disease,17.4.13
+17.4.13(c),Causes not known,17.4.13
