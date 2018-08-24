@@ -3,7 +3,8 @@ import os
 import re
 
 mainPath = os.path.dirname(os.path.abspath(__file__)).replace("\\","/")
-testFile = mainPath + "/data/DHIS (APRIL 15-MARCH 16)/BHIWAPUR BLOCK/PHC/Copy of MonthlyProgressReportMIES_PHC Jawali_Apr-2015.xls"
+# file for indicators
+# testFile = mainPath + "/data/DHIS (APRIL 15-MARCH 16)/BHIWAPUR BLOCK/PHC/Copy of MonthlyProgressReportMIES_PHC Jawali_Apr-2015.xls"
 finalList = list()
 parents = [None, None, None, None, None]
 
@@ -42,7 +43,7 @@ final = pd.DataFrame(finalList)
 componentTree = final.merge(params,on='param',how='inner')
 componentTree = componentTree.reindex(['param','desc','parent'],axis='columns')
 componentTree.columns = ['indicId','desc','parent']
-componentTree.to_csv(mainPath+'/analysis/componentTree.csv',index=False)
+componentTree.to_csv(mainPath+'../csv/componentTree.csv',index=False)
 
 
 

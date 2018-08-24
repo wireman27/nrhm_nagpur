@@ -7,7 +7,7 @@ import statsmodels.formula.api as sm
 
 mainPath = os.path.dirname(os.path.abspath(__file__)).replace("\\","/")
 data = pd.read_csv(mainPath + '/masterTable2.csv')
-paramTree = pd.read_csv(mainPath + '/componentTree.csv')
+paramTree = pd.read_csv(mainPath + '/csv/componentTree.csv')
 
 queryDeaths = '(indicId == "17.2.1" and quantType == "Total" and value != 0) or \
 		(indicId == "17.2.2" and quantType == "Total" and value != 0) or \
@@ -43,60 +43,63 @@ ifaDisp = []
 
 #time-series
 
-# gg = data.groupby(['block','period'])
-# print(type(gg))
+gg = data.groupby(['block','period'])
+print(type(gg))
 
-# for name, group in gg:
-# 	totBirths = group.query(queryBirths)['value'].sum()
-# 	totDeaths = group.query(queryDeaths)['value'].sum()
-# 	totInpChild = group.query(queryInpChild)['value'].sum()
-# 	totInpAdult = group.query(queryInpAdult)['value'].sum()
+for name, group in gg:
+	totBirths = group.query(queryBirths)['value'].sum()
+	totDeaths = group.query(queryDeaths)['value'].sum()
+	totInpChild = group.query(queryInpChild)['value'].sum()
+	totInpAdult = group.query(queryInpAdult)['value'].sum()
 
-# 	blocksList.append(name[0])
-# 	periodList.append(pd.to_datetime(name[1],infer_datetime_format=True))
-# 	childMortalityList.append(round(totDeaths/totBirths,3))
-# 	childInpatientRatioList.append(round(totInpChild/(totInpChild+totInpAdult),3))
+	blocksList.append(name[0])
+	periodList.append(pd.to_datetime(name[1],infer_datetime_format=True))
+	childMortalityList.append(round(totDeaths/totBirths,3))
+	childInpatientRatioList.append(round(totInpChild/(totInpChild+totInpAdult),3))
 
-# test = pd.DataFrame(columns=['block','period'])
+test = pd.DataFrame(columns=['block','period'])
 
-# test['block'] = blocksList
-# test['period'] = periodList
-# test['childInpatientRatioList'] = childInpatientRatioList
-
-
-# test.sort_values('period',inplace=True)
-# test.to_csv(mainPath +'/csv/childInpRatio.csv',index=False)
-
-# for block in data['block'].unique():
-# 	blockData = test[test['block']==block]
-# 	blockData.sort_values('period',inplace=True)
-# 	x = blockData['period']
-# 	y = blockData['childInpatientRatioList']
-# 	plt.plot(x,y)
+test['block'] = blocksList
+test['period'] = periodList
+test['childInpatientRatioList'] = childInpatientRatioList
 
 
-#comparisons
+test.sort_values('period',inplace=True)
+test.to_csv(mainPath +'/csv/childInpRatio.csv',index=False)
 
-# gg = data.groupby('block')
+for block in data['block'].unique():
+	blockData = test[test['block']==block]
+	blockData.sort_values('period',inplace=True)
+	x = blockData['period']
+	y = blockData['childInpatientRatioList']
+	plt.plot(x,y)
 
-# for name, group in gg:
-# 	totPrivDev = group.query(queryPrivDev)['value'].sum()
-# 	totPubDev = group.query(queryPubDev)['value'].sum()
-# 	blocksList.append(name)
-# 	privPubDevRatioList.append(round(totPrivDev/totPubDev,2))
 
-# objects = blocksList
-# y_pos = np.arange(len(objects))
-# performance = privPubDevRatioList
+#comparisons-grouping by block
 
-# test = pd.DataFrame(columns=['block','privPubDevRatioList'])
-# test['block'] = blocksList
-# test['privPubDevRatioList'] = privPubDevRatioList
-# test.to_csv(mainPath+'/csv/privPubDevRatio.csv',index=False)
+gg = data.groupby('block')
+
+for name, group in gg:
+	totPrivDev = group.query(queryPrivDev)['value'].sum()
+	totPubDev = group.query(queryPubDev)['value'].sum()
+	blocksList.append(name)
+	privPubDevRatioList.append(round(totPrivDev/totPubDev,2))
+
+objects = blocksList
+y_pos = np.arange(len(objects))
+performance = privPubDevRatioList
+
+test = pd.DataFrame(columns=['block','privPubDevRatioList'])
+test['block'] = blocksList
+test['privPubDevRatioList'] = privPubDevRatioList
+test.to_csv(mainPath+'/csv/privPubDevRatio.csv',index=False)
  
-# plt.bar(y_pos, performance, align='center', alpha=0.5)
-# plt.xticks(y_pos, objects)
-# plt.ylabel('Private to Public Deliveries Ratio')
+plt.bar(y_pos, performance, align='center', alpha=0.5)
+plt.xticks(y_pos, objects)
+plt.ylabel('Private to Public Deliveries Ratio')
+
+
+#comparisons - grouping by type of facility
 
 gg = data.groupby('typeFac')
 
@@ -119,7 +122,6 @@ performance = ifaDisp
 plt.bar(y_pos, performance, align='center', alpha=0.5)
 plt.xticks(y_pos, objects)
 plt.ylabel('IFA/Anem')
-
 
 
 plt.show()

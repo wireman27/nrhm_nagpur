@@ -4,7 +4,7 @@ import re
 
 mainPath = os.path.dirname(os.path.abspath(__file__)).replace("\\","/")
 dataPath = mainPath + '/data/DHIS (APRIL 15-MARCH 16)'
-indicPath = mainPath + '/chosenIndicators.csv'
+indicPath = mainPath + 'csv/chosenIndicators.csv'
 
 indicData = pd.read_csv(indicPath)
 indicList = [str(x) for x in indicData['indicId']]
@@ -98,7 +98,7 @@ def createTable(excelFilePath,facType,block,isSC,panch):
 final = pd.DataFrame(columns=dfColumns)
 
 for block in os.listdir(dataPath):
-	print(block)
+	print('Working on '+block)
 	path1 = addPaths(dataPath,block)
 	for facType in os.listdir(path1):
 		path2 = addPaths(path1,facType)
@@ -117,14 +117,3 @@ for block in os.listdir(dataPath):
 
 final.to_csv(mainPath+'/masterTable2.csv',index=False)
 
-print(final.shape)
-
-
-
-
-
-
-	# while os.path.isfile(currentPath) == False:
-	# 	currentPath = currentPath + '/' + os.listdir(currentPath)[0]
-	# 	depth = depth + 1
-	# print(depth)

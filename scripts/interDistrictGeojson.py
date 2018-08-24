@@ -5,8 +5,8 @@ import json
 
 mainPath = os.path.dirname(os.path.abspath(__file__)).replace("\\","/")
 
-nm = pd.read_csv(mainPath +'/boundaries/nameMappings.csv')
-idc = pd.read_csv(mainPath + '/analysis/interDistrictComparison.csv')
+nm = pd.read_csv(mainPath +'/csv/nameMappings.csv')
+idc = pd.read_csv(mainPath + '/csv/interDistrictComparison.csv')
 
 with open(mainPath+'/boundaries/maharashtra_districts.geojson','r') as f:
 	geoj = json.loads(f.read())
@@ -22,13 +22,10 @@ for feature in geoj['features']:
 			val = idc[idc['name']==d2][ind].iloc[0]
 			geoj['features'][count]['properties'][ind] = val
 
-			if d2 == 'Aurangabad':
-				print(geoj['features'][count]['properties'][ind])
-				print(val)
 	count = count + 1
 
-# with open(mainPath + '/geojson/interDistrict.geojson','w') as f:
-# 	json.dump(geoj,f)
+with open(mainPath + '/geojson/interDistrict.geojson','w') as f:
+	json.dump(geoj,f)
 
 
 

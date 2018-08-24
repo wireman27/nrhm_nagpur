@@ -5,21 +5,22 @@
     <title>Child Health in Nagpur</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.js'></script>
-    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js'></script>
     <script src="https://d3plus.org/js/d3plus.v2.0.0-alpha.17.full.min.js"></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.css' rel='stylesheet' />
     <link href='css/styles.css' rel='stylesheet'/>
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 </head>
+
+<script>
+    if (screen.width < 846) {
+        alert("Hello. Unfortunately, this page isn't optimized for a mobile device yet. Elements might appear out of place. Or even worse, your browser might freeze! Exercise caution.")
+    }
+</script>
+
 <body>
-    <div id='scroller'>
-        
-
-
-    </div>
     <div id='container'>
-        <div id='links'><a href="https://github.com/wireman27/socialcops" target="_blank">Docs</a></div>
+        <div id='links'><a href="https://github.com/wireman27/nrhm_nagpur" target="_blank">Docs</a></div>
         <h1>Nagpur's Children</h1>
         <div id='introduction' class='page'>
             <h3>
@@ -68,7 +69,7 @@
         </div>
         <div class = 'compareGraph'>
             <div class='compareText-left'>
-                In Hingna block, for every delivery in a public institution, there are 7 deliveries in a private institution. This is staggeringly high given how Hingna block has the second highest number of ANC registrations (see ANC Registrations Treemap below). It is second after Nagpur block which accounts for 29% of ANC registrations but has only 0.07 deliveries at a private institution for every delivery in a public institution.
+                In Hingna block, for every delivery in a public institution, there are 7 deliveries in a private institution. This is staggeringly high given how Hingna block has the second highest number of ANC registrations (see ANC Registrations Treemap below). It is second only after Nagpur block which accounts for 29% of ANC registrations (highest) but has only 0.07 deliveries at a private institution for every delivery in a public institution (one of the lowest).
             </div>
             <div class='chart'  id='myChart3Div'>
                 <canvas id="myChart3"></canvas>
@@ -297,10 +298,6 @@ for (x = 0; x < radios.length;x++) {
 
     var currentIndic = distIndic;
     map.getCanvas().style.cursor = 'pointer';
-
-    var polygon = turf.polygon(e.features[0].geometry.coordinates);
-    var centroid = turf.centroid(polygon);
-    var center = centroid['geometry']['coordinates']
     var value = e.features[0].properties[currentIndic];
     var district = e.features[0].properties['DISTRICT']
 
