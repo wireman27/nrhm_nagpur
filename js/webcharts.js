@@ -377,7 +377,7 @@ xhttp5.onreadystatechange = function() {
 						display: true,
 						scaleLabel: {
 							display: true,
-							labelString: 'Child Mortality - Deaths per 1000 Live Births',
+							labelString: 'Child Mortality - Deaths per Live Birth',
 							fontStyle: "'Montserrat',sans-serif",
 							fontSize: 12
 						}
